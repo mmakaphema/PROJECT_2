@@ -1,0 +1,27 @@
+.gallery img {
+  width: 100%;
+}
+#menu a {
+  background-color: goldenrod;
+  text-decoration: none;
+  padding-inline: 233px;
+  margin: auto;
+  height: auto;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#menu a:hover {
+  background-color: aquamarine;
+}
+h2 {
+  color: goldenrod;
+  text-align: center;
+}
+h1 {
+  color: goldenrod;
+  text-align: center;
+}
+h4 {
+  color: goldenrod;
+  text-decoration: underline;
+}
